@@ -24,12 +24,12 @@ A  fun and minimal 2D space shooter game built using C++ and the raylib graphics
 <br>
 ## 👥 Team
 
-### Vaishnavi Mishra
+### Vaishnavi Mishra(24BCE10916)
 - Player & Bullet Mechanics  
 - Project Design  
 - Presentation & README
 
-### Diksha Choudhary
+### Diksha Choudhary(24BCE10589)
 - Enemy Logic & Collision Detection  
 - Game Loop & Scoring System  
 - Game Enhancements
