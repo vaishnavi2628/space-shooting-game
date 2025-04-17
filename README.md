@@ -21,12 +21,18 @@ A  fun and minimal 2D space shooter game built using C++ and the raylib graphics
 <img width="912" alt="Screenshot 2025-04-17 at 2 33 09 AM" src="https://github.com/user-attachments/assets/2fd9c28c-ce01-4949-8e9a-d11967240594" />
 
 <br>
-##TEAM
-###Vaishnavi Mishra
-<br>
-###Diksha Choudhary
-<br>
-<br>
+## 👥 Team
+
+### Vaishnavi Mishra
+- Player & Bullet Mechanics  
+- Project Design  
+- Presentation & README
+
+### Diksha Choudhary
+- Enemy Logic & Collision Detection  
+- Game Loop & Scoring System  
+- Game Enhancements
+
 
 
 ##🌟 Future Enhancements
