@@ -1,7 +1,8 @@
 # space-shooting-game
 A  fun and minimal 2D space shooter game built using C++ and the raylib graphics library
 <br>
-##-Features
+## -Features
+<br>
 *Player-controlled spaceship using arrow keys
 <br>
 *Bullet shooting with spacebar
@@ -16,7 +17,7 @@ A  fun and minimal 2D space shooter game built using C++ and the raylib graphics
 <br>
 
 
-##GAME PREVIEW
+## GAME PREVIEW
 
 <img width="912" alt="Screenshot 2025-04-17 at 2 33 09 AM" src="https://github.com/user-attachments/assets/2fd9c28c-ce01-4949-8e9a-d11967240594" />
 
@@ -35,7 +36,7 @@ A  fun and minimal 2D space shooter game built using C++ and the raylib graphics
 
 
 
-##🌟 Future Enhancements
+## 🌟 Future Enhancements
 <br>
 
 *Add sound effects and background music
